@@ -8,5 +8,9 @@ APK is available [here](https://github.com/jzplusplus/glassonlineindicator/relea
 When you turn on the screen, a translucent box will show over the "ok, glass" section of the main card.  
 If you have an internet connection, it is green. Otherwise, red.
 
+Screenshot (with GlassDateDisplay as well):
+
+![screenshot](https://github.com/jzplusplus/glassonlineindicator/raw/master/screenshot.png)
+
 
 Based on code from [GlassDateDisplay](https://github.com/DDRBoxman/GlassDateDisplay) by [DDRBoxman](https://github.com/DDRBoxman).
